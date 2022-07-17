@@ -66,12 +66,13 @@ nav{
     font-size: 20px;
     background: #C499BA ;
     color: #000000;
-    padding: 8px;
+    padding: 3px;
     text-decoration: none;
     background-clip: border-box;
     border-radius: 20%;
     margin: 35px;
     border: solid #C689C6;
+
 }
 .impr:hover {
     background:#FF869E;
@@ -86,6 +87,20 @@ ol {
 
 .container {
     margin: 0 auto;
+    width: 90%;
+}
+
+.flex {
+    display: flex;
+}
+
+.columna {
+    background: #7A4069;
+    border: 1px solid #810955;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px #610C63;
 
 }
 

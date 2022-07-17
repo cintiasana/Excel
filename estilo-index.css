@@ -28,6 +28,13 @@ h4 {
     font-size: 25px;
     text-align: center;
 }
+.logo{
+    width: 3%;
+	right: 3%;
+	margin-left: -100%;
+	position: fixed;
+	margin-top: -5%;
+}
 
 .canal{
     text-decoration: none;

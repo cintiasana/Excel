@@ -1,0 +1,19 @@
+html {
+    background: #F2D7D9;
+}
+h1 {
+    color: #4C3A51;
+    font-size: 100px;
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Dancing Script', cursive;
+    margin-bottom: -10px;
+}
+
+.logo{
+    width: 3%;
+	right: 3%;
+	margin-left: -100%;
+	position: fixed;
+	margin-top: -5%;
+}
